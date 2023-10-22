@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "G#G",
+    "#X#",
+    "G#G"
+  ],
+  "key": {
+    "#": {
+      "item": "why_not_mc_mod:fan_blade"
+    },
+    "X": {
+      "item": "minecraft:iron_ingot"
+    },
+    "G": {
+      "item": "why_not_mc_mod:fan_casing"
+    }
+  },
+  "result": {
+    "item": "why_not_mc_mod:fans",
+    "count": 1
+  }
+}

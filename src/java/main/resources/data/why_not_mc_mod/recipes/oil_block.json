@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "why_not_mc_mod:oil_ingot"
+    }
+  },
+  "result": {
+    "item": "why_not_mc_mod:oil_block"
+  }
+}

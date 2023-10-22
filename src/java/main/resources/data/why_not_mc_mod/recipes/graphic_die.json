@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "why_not_mc_mod:pcb"
+    },
+    "X": {
+      "item": "why_not_mc_mod:die"
+    }
+  },
+  "result": {
+    "item": "why_not_mc_mod:graphic_die",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#$#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    "$": {
+      "item": "minecraft:black_concrete"
+    }
+  },
+  "result": {
+    "item": "why_not_mc_mod:processor_bottom",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BXB",
+    "B#B",
+    "BXB"
+  ],
+  "key": {
+    "#": {
+      "item": "why_not_mc_mod:mother_board"
+    },
+    "X": {
+      "item": "minecraft:iron_ingot"
+    },
+    "B": {
+      "item": "why_not_mc_mod:pc_side_panels"
+    }
+  },
+  "result": {
+    "item": "why_not_mc_mod:pc_case_normal",
+    "count": 1
+  }
+}

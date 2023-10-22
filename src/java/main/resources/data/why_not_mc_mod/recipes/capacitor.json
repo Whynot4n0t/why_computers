@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "131",
+    "131",
+    "2 2"
+  ],
+  "key": {
+    "1": {
+      "item": "why_not_mc_mod:compressed_plastic"
+    },
+    "2": {
+      "item": "why_not_mc_mod:iron_rod"
+    },
+    "3": {
+      "item": "minecraft:iron_block"
+    }
+  },
+  "result": {
+    "item": "why_not_mc_mod:capacitor"
+  }
+}

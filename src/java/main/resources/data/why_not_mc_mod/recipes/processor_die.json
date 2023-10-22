@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "why_not_mc_mod:processor_bottom"
+    },
+    "X": {
+      "item": "why_not_mc_mod:die"
+    }
+  },
+  "result": {
+    "item": "why_not_mc_mod:processor_die"
+  }
+}

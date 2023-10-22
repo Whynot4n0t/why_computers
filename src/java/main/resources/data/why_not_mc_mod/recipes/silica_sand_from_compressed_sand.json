@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "compressed_sand",
+  "ingredient": {
+    "item": "why_not_mc_mod:compressed_sand"
+  },
+  "result": "why_not_mc_mod:silica_sand",
+  "experience": 10.0,
+  "cookingtime": 500
+}

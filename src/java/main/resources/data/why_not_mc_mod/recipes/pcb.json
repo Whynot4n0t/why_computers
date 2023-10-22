@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "@#@",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "why_not_mc_mod:compressed_glass_fiber"
+    },
+    "@": {
+      "item": "minecraft:green_dye"
+    }
+  },
+  "result": {
+    "item": "why_not_mc_mod:pcb",
+    "count": 2
+  }
+}

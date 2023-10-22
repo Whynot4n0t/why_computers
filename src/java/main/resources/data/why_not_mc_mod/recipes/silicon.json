@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "silicon",
+  "ingredients": [
+    {
+      "item": "why_not_mc_mod:silica_sand"
+    }
+  ],
+  "result": {
+    "item": "why_not_mc_mod:silicon",
+    "count": 3
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#GG",
+    "#RG",
+    "XXX"
+  ],
+  "key": {
+    "R": {
+      "item": "why_not_mc_mod:pcb"
+    },
+    "#": {
+      "item": "why_not_mc_mod:rezistor"
+    },
+    "X": {
+      "item": "why_not_mc_mod:tranzistor"
+    },
+    "G": {
+      "item": "why_not_mc_mod:capacitor"
+    }
+  },
+  "result": {
+    "item": "why_not_mc_mod:mother_board_1",
+    "count": 1
+  }
+}

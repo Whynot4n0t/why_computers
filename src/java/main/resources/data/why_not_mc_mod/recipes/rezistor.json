@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "R#R"
+  ],
+  "key": {
+    "#": {
+      "item": "why_not_mc_mod:copper_coil"
+    },
+    "R": {
+      "item": "why_not_mc_mod:iron_rod"
+    }
+  },
+  "result": {
+    "item": "why_not_mc_mod:rezistor",
+    "count": 1
+  }
+}

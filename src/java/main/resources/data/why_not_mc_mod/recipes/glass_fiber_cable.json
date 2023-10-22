@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#R#",
+    "#X#",
+    "#R#"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:iron_ingot"
+    },
+    "#": {
+      "item": "minecraft:yellow_wool"
+    },
+    "X": {
+      "item": "why_not_mc_mod:compressed_glass_fiber"
+    }
+  },
+  "result": {
+    "item": "why_not_mc_mod:glass_fiber_cable",
+    "count": 1
+  }
+}

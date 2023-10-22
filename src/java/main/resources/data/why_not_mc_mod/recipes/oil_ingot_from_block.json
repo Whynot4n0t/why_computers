@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "why_not_mc_mod:oil_block"
+    }
+  ],
+  "result": {
+    "item": "why_not_mc_mod:oil_ingot",
+    "count": 9
+  }
+}

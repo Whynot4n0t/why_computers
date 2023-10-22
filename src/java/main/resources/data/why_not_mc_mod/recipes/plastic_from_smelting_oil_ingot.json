@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "plastic",
+  "ingredient": {
+    "item": "why_not_mc_mod:oil_ingot"
+  },
+  "result": "why_not_mc_mod:plastic",
+  "experience": 0.7,
+  "cookingtime": 200
+}

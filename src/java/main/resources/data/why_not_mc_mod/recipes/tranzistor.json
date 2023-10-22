@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    "R#R",
+    "XXX"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:black_concrete"
+    },
+    "#": {
+      "item": "minecraft:iron_block"
+    },
+    "X": {
+      "item": "why_not_mc_mod:iron_rod"
+    }
+  },
+  "result": {
+    "item": "why_not_mc_mod:tranzistor",
+    "count": 1
+  }
+}

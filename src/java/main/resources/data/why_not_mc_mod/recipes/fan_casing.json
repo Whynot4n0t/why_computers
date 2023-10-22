@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#XX",
+    "  X",
+    "  #"
+  ],
+  "key": {
+    "#": {
+      "item": "why_not_mc_mod:plastic"
+    },
+    "X": {
+      "item": "why_not_mc_mod:compressed_plastic"
+    }
+  },
+  "result": {
+    "item": "why_not_mc_mod:fan_casing",
+    "count": 1
+  }
+}

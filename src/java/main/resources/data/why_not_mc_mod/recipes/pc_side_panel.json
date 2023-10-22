@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "why_not_mc_mod:compressed_plastic"
+    }
+  },
+  "result": {
+    "item": "why_not_mc_mod:pc_side_panels",
+    "count": 1
+  }
+}
