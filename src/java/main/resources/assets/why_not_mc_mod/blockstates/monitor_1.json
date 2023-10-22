@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "why_not_mc_mod:block/monitor_1" },
+    "facing=east": { "model": "why_not_mc_mod:block/monitor_1", "y": 90 },
+    "facing=south": { "model": "why_not_mc_mod:block/monitor_1", "y": 180 },
+    "facing=west": { "model": "why_not_mc_mod:block/monitor_1", "y": 270 }
+  }
+}

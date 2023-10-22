@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "why_not_mc_mod:block/pc_case_normal" },
+    "facing=east": { "model": "why_not_mc_mod:block/pc_case_normal", "y": 90 },
+    "facing=south": { "model": "why_not_mc_mod:block/pc_case_normal", "y": 180 },
+    "facing=west": { "model": "why_not_mc_mod:block/pc_case_normal", "y": 270 }
+  }
+}

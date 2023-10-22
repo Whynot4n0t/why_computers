@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "why_not_mc_mod:item/mother_board"
+  }
+}

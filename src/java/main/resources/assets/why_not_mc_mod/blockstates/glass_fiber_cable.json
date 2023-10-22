@@ -1,0 +1,104 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "OR": [
+          {
+            "west": "none",
+            "east": "none",
+            "south": "none",
+            "north": "none"
+          },
+          {
+            "east": "side|up",
+            "north": "side|up"
+          },
+          {
+            "east": "side|up",
+            "south": "side|up"
+          },
+          {
+            "west": "side|up",
+            "south": "side|up"
+          },
+          {
+            "west": "side|up",
+            "north": "side|up"
+          }
+        ]
+      },
+      "apply": {
+        "model": "why_not_mc_mod:block/glass_fiber_cable_dot"
+      }
+    },
+    {
+      "when": {
+        "north": "side|up"
+      },
+      "apply": {
+        "model": "why_not_mc_mod:block/glass_fiber_cable"
+      }
+    },
+    {
+      "when": {
+        "south": "side|up"
+      },
+      "apply": {
+        "model": "why_not_mc_mod:block/glass_fiber_cable"
+      }
+    },
+    {
+      "when": {
+        "east": "side|up"
+      },
+      "apply": {
+        "model": "why_not_mc_mod:block/glass_fiber_cable",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "west": "side|up"
+      },
+      "apply": {
+        "model": "why_not_mc_mod:block/glass_fiber_cable",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "north": "up"
+      },
+      "apply": {
+        "model": "why_not_mc_mod:block/glass_fiber_cable_north_side"
+      }
+    },
+    {
+      "when": {
+        "east": "up"
+      },
+      "apply": {
+        "model": "why_not_mc_mod:block/glass_fiber_cable_east_side",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "south": "up"
+      },
+      "apply": {
+        "model": "why_not_mc_mod:block/glass_fiber_cable_south_side",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "west": "up"
+      },
+      "apply": {
+        "model": "why_not_mc_mod:block/glass_fiber_cable_west_side",
+        "y": 270
+      }
+    }
+  ]
+}
